@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [->Link Project](http://cavesa10-breaking-ba-quote.surge.sh/). 
+## [->Project Link](http://cavesa10-breaking-ba-quote.surge.sh/). 
 
 In the project directory, you can run:
 
